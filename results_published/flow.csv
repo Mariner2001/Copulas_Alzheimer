@@ -1,0 +1,12 @@
+paso,n
+ADSL total,5146
+"ORIGPROT in {ADNIGO, ADNI2}",1699
+con brazo de reclutamiento (DX4),1440
+con ADNI-MEM/EF baseline,915
+con FDG baseline,900
+con amiloide FBP baseline,895
+FreeSurfer filas baseline (pre-QC),1248
+FreeSurfer OVERALLQC = Pass,939
+con volumenes FreeSurfer QC-pass,786
+excluidos SMC / sin brazo,1272
+>>> CASOS COMPLETOS (p=14),630

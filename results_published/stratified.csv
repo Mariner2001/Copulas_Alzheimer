@@ -1,0 +1,25 @@
+analisis,pair,n,fam,rot,tau,lamL
+(0) agrupado (referencia),Memory-FDG,630,clayton,0,0.3160645798774544,0.47238819521533915
+(0) agrupado (referencia),Memory-Amyloid,630,clayton,0,0.26810301593348834,0.38824660765799107
+(0) agrupado (referencia),PCC-Precuneus,630,gaussian,0,0.2907289402450892,0.0
+(a) rangos intra-estrato,Memory-FDG,630,student,0,0.14240594835248843,0.08267930141484049
+(a) rangos intra-estrato,Memory-Amyloid,630,frank,0,0.17512381072575467,0.0
+(a) rangos intra-estrato,PCC-Precuneus,630,gaussian,0,0.2495564846396368,0.0
+(c1) CN+EMCI,Memory-FDG,405,clayton,0,0.12388486708628907,0.08620973133195703
+(c1) CN+EMCI,Memory-Amyloid,405,clayton,0,0.14288615353948306,0.12506158547277693
+(c1) CN+EMCI,PCC-Precuneus,405,gaussian,0,0.19868457266040077,0.0
+(c2) LMCI+AD,Memory-FDG,225,gaussian,0,0.3833082806159152,0.0
+(c2) LMCI+AD,Memory-Amyloid,225,frank,0,0.316954139299652,0.0
+(c2) LMCI+AD,PCC-Precuneus,225,gaussian,0,0.3599951996880593,0.0
+(c3) solo CN,Memory-FDG,156,joe,270,-0.07809095536305821,0.0
+(c3) solo CN,Memory-Amyloid,156,clayton,0,0.03700431512378552,0.00012106440037596389
+(c3) solo CN,PCC-Precuneus,156,gumbel,180,0.16191904963493708,0.21232937097674376
+(c3) solo EMCI,Memory-FDG,249,clayton,0,0.12779152819197878,0.09390706856545206
+(c3) solo EMCI,Memory-Amyloid,249,frank,0,0.19332303576071563,0.0
+(c3) solo EMCI,PCC-Precuneus,249,gaussian,0,0.21881835574549466,0.0
+(c3) solo LMCI,Memory-FDG,128,gumbel,0,0.273778483176777,0.0
+(c3) solo LMCI,Memory-Amyloid,128,frank,0,0.2852110241946715,0.0
+(c3) solo LMCI,PCC-Precuneus,128,gaussian,0,0.32282525232650733,0.0
+(c3) solo AD,Memory-FDG,97,gaussian,0,0.2788309934536665,0.0
+(c3) solo AD,Memory-Amyloid,97,gumbel,0,0.23901157153563135,0.0
+(c3) solo AD,PCC-Precuneus,97,frank,0,0.3688294098048503,0.0

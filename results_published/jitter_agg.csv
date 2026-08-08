@@ -1,0 +1,11 @@
+pair,EIP_jitter,EIP_bootstrap,n_jitter,fam_jitter,ambiguedad_solo_jitter
+APOE4-Amyloid,1.0,1.0,110,"[('frank', 110)]",no
+Memory-FDG,1.0,1.0,110,"[('clayton', 110)]",no
+PCC-Precuneus,1.0,0.954,110,"[('gaussian', 110)]",no
+Education-ExecFun,0.9636363636363636,0.778,110,"[('gaussian', 77), ('frank', 29)]",SI
+Sex-Thalamus,0.990909090909091,0.771,110,"[('frank', 106), ('gaussian', 2)]",no
+Sex-Hippocampus,0.7272727272727273,0.688,110,"[('clayton', 34), ('frank', 32)]",SI
+Sex-Memory,0.00909090909090909,0.23,110,"[('frank', 1)]",no
+Sex-ExecFun,0.0,0.079,110,[],no
+Sex-Precuneus,0.0,0.007,110,[],no
+Sex-PCC,0.0,0.004,110,[],no

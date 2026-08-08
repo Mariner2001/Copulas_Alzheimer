@@ -1,0 +1,13 @@
+name: alzheimer-vine
+channels: [conda-forge]
+dependencies:
+  - python=3.12.3
+  - numpy=2.4.4
+  - scipy=1.17.1
+  - pandas=3.0.2
+  - matplotlib=3.10.8
+  - networkx=3.6.1
+  - pip
+  - pip:
+      - pyvinecopulib==0.7.6
+      - pyreadr==0.5.6

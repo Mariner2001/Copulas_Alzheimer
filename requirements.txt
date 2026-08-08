@@ -1,0 +1,9 @@
+# Python 3.12.3
+# Instalación:  pip install -r requirements.txt
+numpy==2.4.4
+scipy==1.17.1
+pandas==3.0.2
+pyvinecopulib==0.7.6
+matplotlib==3.10.8
+networkx==3.6.1
+pyreadr==0.5.6          # solo para leer los .rda del paquete ADNIMERGE2

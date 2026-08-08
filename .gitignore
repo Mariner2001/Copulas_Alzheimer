@@ -1,0 +1,13 @@
+# --- DATOS ADNI: NUNCA subir (Data Use Agreement) ---
+data/adni_merged.csv
+data/*.rda
+data/*.csv
+!data/README.md
+output/boot_raw.pkl
+output/jit_raw.pkl
+
+# --- Python ---
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
